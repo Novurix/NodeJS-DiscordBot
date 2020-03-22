@@ -16,7 +16,7 @@ client.on('message', message => {
 
         member = message.mentions.members.first();
 
-        if (message.member.roles.guild.equals("689848583637172245") || message.member.roles.guild.equals("689849249428668550")) {
+        if (message.member.roles.guild.equals("roleId") || message.member.roles.guild.equals("roleId")) {
 
             message.channel.send("you have no permission to use that command");
         } 
@@ -34,7 +34,7 @@ client.on('message', message => {
 
         member = message.mentions.members.first();
 
-        if (message.member.roles.guild.equals("689848583637172245") || message.member.roles.guild.equals("689849249428668550")) {
+        if (message.member.roles.guild.equals("roleId") || message.member.roles.guild.equals("roleId")) {
 
             message.channel.send("you have no permission to use that command");
         } 
