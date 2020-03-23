@@ -1,1 +1,1 @@
-# NodeJS-Discord-Bot
+# NodeJS-Discord-Ban-Bot
